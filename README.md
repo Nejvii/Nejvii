@@ -1,13 +1,18 @@
 Hello fellas 👋
 
+### Hi there 👋, Mike Stas
+#### Future Frontend Dev
+![Future Frontend Dev](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
+
 My name is Mike, from PL.
 
-In real life I'm Business Development Manager in a small electronic company. 
+In real life I'm Business Development Manager in a small electronic company.
 
 I'd like to change something in my life thats why i start learn how to code - its fun ⚡
 
-🌱 I’m currently learning HTML CSS and JS
-About me? 
+🌱 I’m currently learning HTML CSS and JS 
+
+Skills: / JS / HTML / CSS
 
 Nothing special yet:
 
