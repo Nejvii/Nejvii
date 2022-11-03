@@ -12,7 +12,7 @@ I'd like to change something in my life thats why i start learn how to code - it
 
 About me? 
 
-<h2>My Intereset</h2>
+<h2>My Interested</h2>
 <ul>
   <li>Travel - motorcycle tourism.</li>
     <p>
