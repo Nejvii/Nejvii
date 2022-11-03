@@ -7,10 +7,12 @@ In real life I'm Business Development Manager in a small electronic company.
 I'd like to change something in my life thats why i start learn how to code - its fun ⚡
 
 🌱 I’m currently learning HTML CSS and JS
-
-
-
 About me? 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nejvii)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <h2>My Interested</h2>
 <ul>
