@@ -21,7 +21,8 @@ Nothing special yet:
 
 
 
-<h2>My Interested</h2>
+
+<h2>Interested</h2>
 <ul>
   <li>Travel - motorcycle tourism.</li>
     <p>
