@@ -9,9 +9,12 @@ I'd like to change something in my life thats why i start learn how to code - it
 
 🌱 I’m currently learning HTML CSS and JS / 
 
-Skills: / JS / HTML / CSS - basic
-start PHP/ React
+Skills:
+<ul>
+JS / HTML / CSS - basic
 
+start PHP/ React
+</ul>
 Nothing special yet:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nejvii)](https://github.com/anuraghazra/github-readme-stats)
