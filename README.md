@@ -12,8 +12,9 @@ I'd like to change something in my life thats why i start learn how to code - it
 Skills:
 <ul>
 JS / HTML / CSS - basic
-
+<li>
 start PHP/ React
+  </li>  
 </ul>
 Nothing special yet:
 
