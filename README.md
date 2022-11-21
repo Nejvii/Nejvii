@@ -16,9 +16,8 @@ JS / HTML / CSS - basic
 start PHP/ React
   </li>  
 </ul>
-Nothing special yet:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nejvii)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 test
