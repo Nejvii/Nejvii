@@ -12,7 +12,7 @@ I'd like to change something in my life thats why i start learn how to code - it
 Skills:
 <ul>
 <li> 
-  JS / HTML / CSS - basic
+  JS / HTML / CSS - basic/mid
   </li>
   <li>
 start PHP/ React
