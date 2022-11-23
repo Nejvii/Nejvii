@@ -11,16 +11,15 @@ I'd like to change something in my life thats why i start learn how to code - it
 
 Skills:
 <ul>
-JS / HTML / CSS - basic
-<li>
+<li> 
+  JS / HTML / CSS - basic
+  </li>
+  <li>
 start PHP/ React
   </li>  
 </ul>
 
 
-
-
-test
 
 <h2>Interested</h2>
 <ul>
