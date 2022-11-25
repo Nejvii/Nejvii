@@ -7,17 +7,6 @@ In real life I'm Business Development Manager in a small electronic company.
 
 I'd like to change something in my life thats why i start learn how to code - its fun ⚡
 
-🌱 I’m currently learning HTML CSS and JS / 
-
-Skills:
-<ul>
-<li> 
-  JS / HTML / CSS - basic/mid
-  </li>
-  <li>
-start PHP/ React and Phyton
-  </li>  
-</ul>
 
 ## 👨‍💻 Languages and Tools
 
