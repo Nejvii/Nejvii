@@ -19,6 +19,26 @@ start PHP/ React and Phyton
   </li>  
 </ul>
 
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+
+<br>
+<div>
+<H2>Learning:</H2>
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+</div>
+</div>
 
 
 <h2>Interested</h2>
