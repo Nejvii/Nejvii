@@ -36,10 +36,10 @@ I'd like to change something in my life thats why i start learn how to code - it
 
 <br>
 
+  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nejvii&theme=github)
 <div align="center">
 
-  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nejvii&theme=github)
-  
+ 
   
 <h2>Interested</h2>
 <ul>
