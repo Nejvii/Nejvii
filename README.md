@@ -28,6 +28,15 @@ I'd like to change something in my life thats why i start learn how to code - it
 </div>
 </div>
 
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Nejvii&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nejvii&theme=dark" width="45%" >
+
+<br>
+
+<div align="center">
 
 <h2>Interested</h2>
 <ul>
