@@ -39,7 +39,6 @@ I'd like to change something in my life thats why i start learn how to code - it
 <div align="center">
 </div>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   
 <h2>Interested</h2>
