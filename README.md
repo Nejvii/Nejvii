@@ -31,14 +31,13 @@ I'd like to change something in my life thats why i start learn how to code - it
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Nejvii&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nejvii&theme=dark" width="45%" >
 
 <br>
 
   ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nejvii&theme=github)
 <div align="center">
-
+</div>
  
   
 <h2>Interested</h2>
