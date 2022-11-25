@@ -39,7 +39,7 @@ I'd like to change something in my life thats why i start learn how to code - it
 <div align="center">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nejvii&layout=compact&exclude_repo=Projects)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nejvii&exclude_repo=Projects)
 
   
 <h2>Interested</h2>
