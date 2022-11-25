@@ -38,7 +38,8 @@ I'd like to change something in my life thats why i start learn how to code - it
   ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nejvii&theme=github)
 <div align="center">
 </div>
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nejvii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 <h2>Interested</h2>
 <ul>
