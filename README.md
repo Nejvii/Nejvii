@@ -35,11 +35,11 @@ I'd like to change something in my life thats why i start learn how to code - it
 
 <br>
 
-  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nejvii&theme=github)
+  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nejvii&theme=github&langs_count=8)
 <div align="center">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nejvii&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nejvii&layout=compact)
 
   
 <h2>Interested</h2>
