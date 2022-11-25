@@ -15,7 +15,7 @@ Skills:
   JS / HTML / CSS - basic/mid
   </li>
   <li>
-start PHP/ React
+start PHP/ React and Phyton
   </li>  
 </ul>
 
