@@ -76,7 +76,7 @@ I'd like to change something in my life thats why i start learn how to code - it
       I am gamer. I have been playing since I was a child. I love computer and board games.
     Mainly MMO/ RTS and I really liked SIM Racing.
       </p>
-Someday i will be pro programmer 😄 
+Someday i will be pro programmer 😄 (mb)
   
 </ul>
 
