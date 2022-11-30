@@ -80,6 +80,8 @@ Someday i will be pro programmer 😄 (mb)
   
 </ul>
 
+Vacation to 3.12.2022
+
 <!--
 **Nejvii/Nejvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
